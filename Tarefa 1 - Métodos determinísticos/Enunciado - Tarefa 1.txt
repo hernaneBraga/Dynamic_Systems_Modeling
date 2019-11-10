@@ -1,0 +1,7 @@
+Essa tarefa compreende na utilização de dados experimentais para obtenção de modelos na forma de funções de transferência. Tais modelos serão obtidos por meio de métodos determinísticos.
+
+São aqui disponibilizadas três massas de dados coletadas de ensaios em laboratório. Cada estudante deverá pesquisar na internet dados disponíveis de algum processo para o qual um teste ao degrau disponibiliza dados de entrada e saída. Esse será o quarto sistema a ser modelado. É permitido o uso de dados coletados pelo próprio estudante em algum processo.
+
+Cada aluno deverá entregar aqui um .zip contendo todos os arquivos .m, .txt, .dat usados na implementação, bem como um .pdf contendo breve apresentação e análise crítica dos resultados (até 4 páginas).
+
+Atenção! Não enviar no formato .rar!
