@@ -1,0 +1,17 @@
+Exercício 1:
+
+Considere um sistema de primeira ordem com atraso puro de tempo descrito pela função de transferência (FT) G(s).
+
+a) Escolha parâmetros para essa FT e simule a resposta da mesma a um sinal PRBS de 300 amostras. Escolha apropriadamente os parâmetros do PRBS.
+
+b) Estime o atraso puro de tempo via função de correlação cruzada (FCC).
+
+c) A partir do atraso estimado, use o algoritmo de mínimos quadrados (MQ) para estimar os demais parâmetros da FT (ganho e constante de tempo).
+
+Observação: O Exemplo 8.5.1. do Cap. 8 - Estimadores Recursivos apresenta a formulação para usar o MQ para estimar os parâmetros ganho e constante de tempo da FT, por meio da reescrita da FT como uma equação de diferenças aproximada.
+
+d) Repita os itens acima, adicionando na resposta simulada em a) ruído de medição de diferentes níveis. Trate, pelo menos, dois cenários: ruído baixo e ruído relativamente alto.
+
+Observação: Simule ruído de processo (na equação).
+
+Exercício 2: 5.13 (4a. edição) Trata-se do exercício que usa dados dos arquivos bfg33 e bfg44 (semelhante ao Exemplo 3.3.1).
